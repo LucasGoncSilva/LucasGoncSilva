@@ -5,13 +5,12 @@
 
 <br>
 
-
 <a href="https://github.com/LucasGoncSilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGoncSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGoncSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGoncSilva&theme=tokyonight&hide_langs_below=1" />
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGoncSilva&theme=tokyonight&hide_langs_below=1" />
 </a>
 
 <br>
