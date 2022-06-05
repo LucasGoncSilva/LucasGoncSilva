@@ -1,7 +1,7 @@
 
 <h1>Hi there, I'm  LucasGoncSilva :sunglasses:</h1>
 
-<h4>Sup! Happy to see U exploring on this lands! Feel free to look around the repository of a self-learning student, web dev and programmer! Here are all my projects that I judge important to maintain beyond my personal machine.</h4>
+<h4>Sup! Glad to see U exploring in these lands! Feel free to look around here, the repository of a self-taught student, web dev and programmer! Here are all my projects that I think are important to keep besides my personal machine.</h4>
 
 <br>
 
